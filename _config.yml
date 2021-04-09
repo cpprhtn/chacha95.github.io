@@ -14,10 +14,10 @@ author: ChaCha
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Posts: ""
+  Posts: "https://chacha95.github.io"
   Tags: "https://chacha95.github.io/tags"
-  Projects: "projects"
-  About Me: "aboutme"
+  # Projects: "https://chacha95.github.io/projects"
+  # About Me: "https://chacha95.github.io/aboutme"
 
 # --- Logo --- #
 avatar: "/assets/img/face.png"
