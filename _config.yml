@@ -16,8 +16,8 @@ author: ChaCha
 navbar-links:
   Posts: "https://chacha95.github.io"
   Tags: "https://chacha95.github.io/tags"
-  # Projects: "https://chacha95.github.io/projects"
-  # About Me: "https://chacha95.github.io/aboutme"
+  Projects: "https://chacha95.github.io/projects"
+  About Me: "https://chacha95.github.io/aboutme"
 
 # --- Logo --- #
 avatar: "/assets/img/face.png"
