@@ -1,0 +1,18 @@
+---
+layout: base
+---
+
+<div class="intro-header"></div>
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
+
+<html>
+	<body>
+		{% include analytics.html %}
+	</body>
+</html>
+
+<div role="main" class="container">
+  {{ content }}
+</div>
