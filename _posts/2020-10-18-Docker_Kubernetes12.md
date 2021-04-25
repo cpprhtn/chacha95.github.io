@@ -105,9 +105,3 @@ Auto scailing, networking, status check, 서버 구성의 복잡성을 캡슐화
 ![](https://user-images.githubusercontent.com/31475037/96206778-9e4f9180-0fa4-11eb-883f-8cfeb02d2969.png)
 
 <br>
-
-**참고 자료**
-
-[PyTorch](https://pytorch.org/blog/model-serving-in-pyorch/)
-
-[Architecture | TFX | TensorFlow](https://www.tensorflow.org/tfx/serving/architecture)
