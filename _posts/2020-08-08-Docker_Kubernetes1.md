@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MLOps Zero to Hero 3 - Docker란?
+title: MLOps 3 - Docker란?
 tags: [MLOps]
 use_math: true
 ---

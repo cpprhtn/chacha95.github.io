@@ -21,7 +21,6 @@ AVA는 human action에 대한 이해를 높이기 위해 비디오의 시청각 
 - AVA Action dataset
 
   AVA dataset은 430개의 15분짜리 movie clip에 80개의 시각 효과를 주석으로 표시합니다. action은 시간과 공간적으로 localized되어 인간 당 여러 개의 레이블이 달려있습니다. 
-  
 
 자세한 사항은 [AVA CVPR2018](https://arxiv.org/pdf/1705.08421.pdf) 논문을 읽어보시길 바랍니다.
 

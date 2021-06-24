@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MLOps Zero to Hero 6 - Kubernetes 동작 방식
+title: MLOps 6 - Kubernetes 동작 방식
 tags: [MLOps]
 use_math: true
 ---

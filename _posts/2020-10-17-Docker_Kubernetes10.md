@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MLOps Zero to Hero 10 - kubeflow components
+title: MLOps 9 - kubeflow components
 tags: [MLOps]
 use_math: true
 ---
@@ -75,8 +75,6 @@ Kubeflow Pipelines 플랫폼은 다음으로 구성됩니다.
 
 - **Reuse:** components와 pipelines을 재사용하여 end to end solution을 빠르게 만들 수 있습니다.
 
-자세한 내용은 [다음포스트](https://chacha95.github.io/2020-10-17-Docker_Kubernetes11/)에서 다루도록 하겠습니다.
-
 <br>
 
 # Multi-user Isolation
@@ -107,23 +105,15 @@ Auto scailing, networking, status check, 서버 구성의 복잡성을 캡슐화
 
 ![](https://user-images.githubusercontent.com/31475037/96206778-9e4f9180-0fa4-11eb-883f-8cfeb02d2969.png)
 
-자세한 내용은 [다음포스트](https://chacha95.github.io/2020-10-17-Docker_Kubernetes12/)에서 다루도록 하겠습니다.
-
 <br>
 
 # Katib
 
 Katib는 Hyperparameter tunning and NAS(Neural Architecture Search)를 하는 tool입니다. 현재로선 Katib를 사용해 보다 편하게 Hyperparameter를 찾게 도와줍니다.
 
-자세한 내용은 [다음포스트](https://chacha95.github.io/2020-10-18-Docker_Kubernetes13/)에서 다루도록 하겠습니다.
-
-
-
 <br>
 
 *Artifacts: 학습 프로세스 혹은 전체 pipeline에서 생성되는 outputs을 일컫습니다. 예를 들어 model artifacts는 학습된 model weights를 의미합니다.*
-
-
 
 <br>
 

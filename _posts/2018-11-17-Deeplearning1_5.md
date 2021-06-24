@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Optimization
-tags: [Machine Learning]
+tags: [ML]
 use_math: true
 ---
 

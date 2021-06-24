@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MLOps Zero to Hero 7 - Service Mesh와 Knative
+title: MLOps 7 - Service Mesh와 Knative
 tags: [MLOps]
 use_math: true
 ---

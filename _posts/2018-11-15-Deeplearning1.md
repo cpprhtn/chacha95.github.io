@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linear Classification
-tags: [Machine Learning]
+tags: [ML]
 ---
 
 # Linear Classification이란?

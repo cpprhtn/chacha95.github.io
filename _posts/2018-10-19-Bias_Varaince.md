@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bias and Variance
-tags: [Machine Learning]
+tags: [ML]
 ---
 
 # Bias and Varaince Trade-off

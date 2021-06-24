@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ensemble
-tags: [Machine Learning]
+tags: [ML]
 ---
 
 # Ensemble(앙상블)이란?

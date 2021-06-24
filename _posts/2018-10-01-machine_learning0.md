@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is machine learning?
-tags: [Machine Learning]
+tags: [ML]
 ---
 
 # Machine learning의 개념
@@ -16,7 +16,7 @@ Machine learning(기계 학습)은 데이터로부터 학습하도록 컴퓨터�
 
 
 
-예를들어스팸 필터는 스팸 메일과 일반 메일의 샘플을 이용해, 스팸 메일을 구분하는 법을 배우고 이를 구분합니다.
+예를 들어스팸 필터는 스팸 메일과 일반 메일의 샘플을 이용해, 스팸 메일을 구분하는 법을 배우고 이를 구분합니다.
 
 <br>
 

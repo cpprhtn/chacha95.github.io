@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MLOps Zero to Hero 9 - kubeflow 소개
+title: MLOps 8 - kubeflow 소개
 tags: [MLOps]
 use_math: true
 ---

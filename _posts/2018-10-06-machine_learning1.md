@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SVM
-tags: [Machine Learning]
+tags: [ML]
 ---
 
 # SVM이란 무엇인가?

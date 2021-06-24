@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Regression
-tags: [Machine Learning]
+tags: [MLs]
 ---
 
 # Regression 이란?

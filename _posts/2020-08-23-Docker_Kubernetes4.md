@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MLOps Zero to Hero 5 - Kubernetes 구성 요소
+title: MLOps 5 - Kubernetes 구성 요소
 tags: [MLOps]
 use_math: true
 ---
